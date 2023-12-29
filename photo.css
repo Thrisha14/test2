@@ -1,0 +1,81 @@
+body{
+ background-image: linear-gradient(to right, pink ,red, skyblue);
+    
+}
+.close i{
+    margin-left: 210px;
+    position: relative;
+    margin-top:10px;
+    size: 20px;
+}
+
+.login{
+    border: 50px;
+    margin-left: 200px;
+    margin-top: 70px;
+    background-color: white;
+    width: 30%;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.login hr{
+    margin-top: 30px;
+    color: black;
+}
+
+.login a{
+    text-decoration: none;
+    padding-right: 40px;
+    margin-left: 40px;
+}
+.login input{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding: 8px;
+}
+.login button{
+    background-color: blue;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    height: 33px;
+    cursor: pointer ;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+}
+.login button.fb{
+    margin-top: 25px;
+    background-color: darkblue;
+    width: 250px;
+    margin-left: -0px;
+    border: none;
+    color: white;
+    font-size: 15px;
+
+}
+.login button.twi{
+    background-color: skyblue;
+    margin-left: 0px;
+    width: 250px;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+.login button.goo{
+    background-color: red;
+    width: 250px;
+    border: none;
+    margin-left: 0px;
+    color: white;
+    font-size: 15px;
+}
+
+.image{
+    border: 50px;
+    margin-left: 642px;
+    margin-top: -523px;
+}
